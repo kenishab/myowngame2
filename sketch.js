@@ -14,7 +14,7 @@ var jumpSound;
 function preload() {
     bageeraImg = loadAnimation("images/bageera.gif");
     backgroundImg = loadImage("images/jungle.jpg");
-    sherKhanImg = loadAnimation("images/sherKhan.png");
+    sherKhanImg = loadAnimation("images/sherkhan.png");
     resetImg = loadImage("images/Quick_restart.png");
     jumpSound =  loadSound("CheckpointSoundEffect.mp3");
 }
